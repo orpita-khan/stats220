@@ -6,5 +6,5 @@
    <li><i>I'm currently completing project 1.</i></li>
 </ul>
 
-<a href="https://www.linkedin.com/in/orpita-khan-4b78331b0/">Connect with me on LinkedIn!</a> 
+<p>Connect with me on <a href="https://www.linkedin.com/in/orpita-khan-4b78331b0/">LinkedIn!</a> </p>
 
