@@ -1,6 +1,6 @@
 <h1>STATS 220 Project 1</h1>
 
-<h2><b>What's inside?</b></h2>
+<h2>What's inside?</h2>
 <ul>
    <li>I've created this repository for my STATS 220 course.</li>
    <li><i>I'm currently completing project 1.</i></li>
