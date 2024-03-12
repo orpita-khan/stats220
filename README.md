@@ -6,5 +6,8 @@
    <li><i>I'm currently completing <b>project 1.</b></i></li>
 </ul>
 
-<p>Connect with me on <a href="https://www.linkedin.com/in/orpita-khan-4b78331b0/">LinkedIn!</a> </p>
-
+<h4>Get in touch!</h4>
+<ol>
+  <li>Connect with me on <a href="https://www.linkedin.com/in/orpita-khan-4b78331b0/">LinkedIn</a></li>
+  <li>Connect with me via email --> okha956@aucklanduni.ac.nz</li>
+</ol>
