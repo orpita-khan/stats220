@@ -3,7 +3,7 @@
 <h2>What's inside?</h2>
 <ul>
    <li>I've created this repository for my STATS 220 course.</li>
-   <li><i>I'm currently completing <b>project 1.</b></i></li>
+   <li>I'm currently completing <i><b>project 1.</b></i></li>
 </ul>
 
 <h4>Get in touch!</h4>
